@@ -13,5 +13,5 @@ A Growth Mindset is taking your failures, reexamining them then growing from the
 
 
 #### **Let's Connect:**
-######<a href = "https://github.com/Cquinn21">GitHub</a>
+#####<a href = "https://github.com/Cquinn21">GitHub</a>
 
