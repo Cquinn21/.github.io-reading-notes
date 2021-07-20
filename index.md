@@ -1,8 +1,6 @@
 # My Name is Christina. 
 ## Welcome to my page! 😁
 
-### **Let's Connect:**
-##### <a href = "https://github.com/Cquinn21">GitHub</a>
 
 
 ### ***Growth Mindset***
@@ -14,4 +12,6 @@ A Growth Mindset is taking your failures, reexamining them then growing from the
 3. Mistakes creates growth. It is how I learn and get better.
 
 
+### **Let's Connect:**
+##### <a href = "https://github.com/Cquinn21">GitHub</a>
 
