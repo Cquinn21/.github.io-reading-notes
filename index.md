@@ -1,4 +1,4 @@
-# *My Name is Christina. Welcome to my page!* :grin:
+# *My Name is Christina. Welcome to my page!* 😁
 
 ## **Let's Connect:**
 #### <a href = "https://github.com/Cquinn21">GitHub</a>
