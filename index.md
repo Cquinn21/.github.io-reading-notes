@@ -14,6 +14,6 @@ A Growth Mindset is taking your failures, reexamining them then growing from the
 > We may encounter defeats, but we must not be defeated.
 > - Maya Angelou
 
-#### ***Let's Connect:***
-##### <a href = "https://github.com/Cquinn21">GitHub</a>
+##### ***Let's Connect:***
+###### <a href = "https://github.com/Cquinn21">GitHub</a>
 
