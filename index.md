@@ -1,5 +1,5 @@
 # My Name is Christina. 
-## Welcome to my page! 😁
+## Welcome to my page!
 
 
 
