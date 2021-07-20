@@ -11,7 +11,9 @@ A Growth Mindset is taking your failures, reexamining them then growing from the
 2. I haven't figured it out **YET**! 
 3. Mistakes creates growth. It is how I learn and get better.
 
+> We may encounter defeats, but we must not be defeated.
+> - Maya Angelou
 
-#### **Let's Connect:**
+#### ***Let's Connect:***
 ##### <a href = "https://github.com/Cquinn21">GitHub</a>
 
