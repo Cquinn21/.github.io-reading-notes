@@ -1,6 +1,4 @@
-
-# My Name is Christina.
-![me](https://user-images.githubusercontent.com/87684144/126419306-29b0614f-ab2c-47ae-a5b0-99d517b67eb0.jpeg)
+![me](https://user-images.githubusercontent.com/87684144/126419306-29b0614f-ab2c-47ae-a5b0-99d517b67eb0.jpeg) # My Name is Christina.
 ## Welcome to my page!
 
 ### About Me
