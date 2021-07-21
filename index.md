@@ -1,6 +1,6 @@
 
-# My Name is Christina. 
-<img width="321" alt="me" src="me.jpeg![me](https://user-images.githubusercontent.com/87684144/126418010-4f814b66-7b2b-4198-8f45-5388c7bd413d.jpeg)">
+# My Name is Christina.
+![image](me.jpeg![me](https://user-images.githubusercontent.com/87684144/126418194-21891a2e-30d2-4efc-80b7-39966d602148.jpeg)
 ## Welcome to my page!
 
 ### About Me
