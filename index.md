@@ -1,9 +1,11 @@
 # My Name is Christina.
-![me](https://user-images.githubusercontent.com/87684144/126419306-29b0614f-ab2c-47ae-a5b0-99d517b67eb0.jpeg)
 ## Welcome to my page!
 
 ### About Me
 Hi! My name is Christina. I have always had a fascination with technology. I was always taking things apart and putting it back to gether to my fathers frustration.  VCR's, game systems, you name it I was taking it apart. I later got into repairing and building computers along with repairing smart devices and game systems. I decided I wanted to see the other side. The world of code. I am so excited to be on this journey of endless growth and learning. Coding is a real challenge that allows me to put my problem solving skills to the test!
+
+
+![Growth Mindset](https://user-images.githubusercontent.com/87684144/126422083-e0834995-e1ce-4829-b799-719c1e1aec64.png)
 
 ### Growth Mindset
 A Growth Mindset is taking your failures, reexamining them then growing from them. To change your perspective and view those challenges we face as a means for growth and to make us stronger instead of giving up. You help in the success of others rather than being defeated and jealous. You put in the hard work and really give it your all. All you can do is the best you can do. Failure only occurs when you quit trying.
