@@ -1,8 +1,8 @@
-< align="center">
+<div style="text-align: center">
 # My Name is Christina.
 ![me](https://user-images.githubusercontent.com/87684144/126419306-29b0614f-ab2c-47ae-a5b0-99d517b67eb0.jpeg)
 ## Welcome to my page!
-</p>
+</div>
 ### About Me
 Hi! My name is Christina. I have always had a fascination with technology. I was always taking things apart and putting it back to gether to my fathers frustration.  VCR's, game systems, you name it I was taking it apart. I later got into repairing and building computers along with repairing smart devices and game systems. I decided I wanted to see the other side. The world of code. I am so excited to be on this journey of endless growth and learning. Coding is a real challenge that allows me to put my problem solving skills to the test!
 
