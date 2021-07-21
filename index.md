@@ -1,4 +1,3 @@
-![me](https://user-images.githubusercontent.com/87684144/126409253-764cfeed-8396-434f-b122-a116d3e735b6.jpeg)
 # My Name is Christina. 
 ## Welcome to my page!
 
