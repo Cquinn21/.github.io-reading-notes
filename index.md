@@ -1,4 +1,4 @@
-# My Name is Christina. 
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> # My Name is Christina. 
 ## Welcome to my page!
 
 ### About Me
@@ -18,5 +18,5 @@ A Growth Mindset is taking your failures, reexamining them then growing from the
 ##### ***Let's Connect:***
 ###### <a href = "https://github.com/Cquinn21"><u>GitHub</u></a> <a href = "https://www.linkedin.com/in/christina-e-quinn"><u>LinkedIn</u></a>
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 
