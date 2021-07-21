@@ -1,4 +1,3 @@
-<img align="left" width="125" height="125" src="http://www.fillmurray.com/115/115"> 
 
 # My Name is Christina. 
 ## Welcome to my page!
