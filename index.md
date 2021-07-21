@@ -13,6 +13,10 @@ A Growth Mindset is taking your failures, reexamining them then growing from the
 
 > We may encounter defeats, but we must not be defeated. - Maya Angelou
 
+
+#### About Me
+Hi! My name is Christina. I have always had a fascination with technology. I was always taking things apart and putting it back to gether to my fathers frustration.  VCR's, game systems, you name it I was taking it apart. I later got into repairing and building computers along with repairing smart devices and game systems. I decided I wanted to see the other side. The world of code. I am so excited to be on this journey of endless growth and learning. Coding is a real challenge that allows me to put my problem solving skills to the test!
+
 ##### ***Let's Connect:***
 ###### <a href = "https://github.com/Cquinn21"><u>GitHub</u></a> <a href = "https://www.linkedin.com/in/christina-e-quinn"><u>LinkedIn</u></a>
 
