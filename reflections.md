@@ -10,14 +10,14 @@
 ### Markdown Syntax Examples
 
 #### ***Italic:*** 
-- ###### ** or __       
+- ###### ** or _ _       
     -  ```* makes italic text * ```
     -  ``` _ makes italic text _ ```
 
 #### **Bold**
 - ###### ** ** or __ __
     - ``` ** Makes bold text ** ```
-    - ``` _ _ Makes bold text _ _ ```
+    - ``` __ Makes bold text __ ```
 
 #### ~~Strikethrough~~
 - ###### ~~ ~~
