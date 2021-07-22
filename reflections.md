@@ -9,4 +9,4 @@
 
 ### Markdown Syntax Examples
 
-- ``` * single asterisks at the beginning and end of text creates italic * ```
+-  ***Italic*** * * or _ _ ``` * single asterisks at the beginning and end of text creates italic * ```
