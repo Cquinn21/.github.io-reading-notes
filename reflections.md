@@ -11,4 +11,4 @@
 
 ##### ***Italic:*** 
 - using  * * or _ _       
-    -  ``` * single asterisks at the beginning and end of text creates italic text * or _ using single underscore at the beginning and end of text also creates italic text _ ```
+    -  ```js * single asterisks at the beginning and end of text creates italic text * or _ using single underscore at the beginning and end of text also creates italic text _ ```
