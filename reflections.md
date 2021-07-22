@@ -19,7 +19,7 @@
     - ``` ** Makes bold text ** ```
     - ``` __ Makes bold text __ ```
 
-##### Strikethrough
+##### ~~Strikethrough~~
 - ~~ ~~
     - ``` ~~ Marks a line through the text ~~ ```
    
@@ -27,7 +27,7 @@
 - ** ** and _ _
     - ``` ** to _nest_ italic text with bold ** ```
 
-##### *** All Bold Text ***
+##### ***All Bold Text***
 - *** ***
     - ``` *** Makes all words bold *** ```
 
