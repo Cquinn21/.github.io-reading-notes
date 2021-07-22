@@ -8,3 +8,5 @@
 - Does not replace HTML, if there is not a markdown, simply use HTML instead.
 
 ### Markdown Syntax Examples
+
+- ``` * single asterisks at the beginning and end of text creates italic * ```
