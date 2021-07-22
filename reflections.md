@@ -23,7 +23,7 @@
 - ~~ ~~
     - ``` ~~ Marks a line through the text ~~ ```
    
-##### ** Bold with _Nested_ Italics **
+##### **Bold with _Nested_ Italics**
 - ** ** and _ _
     - ``` ** to _nest_ italic text with bold ** ```
 
@@ -31,5 +31,5 @@
 - *** ***
     - ``` *** Makes all words bold *** ```
 
-These are just a few examples of Markdown syntax. You can find more [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) and also checkout [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) here.
+These are just a few examples of Markdown syntax. You can find more [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) and also checkout [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) here. Pdf version of Mastering Markdown [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf). 
 
