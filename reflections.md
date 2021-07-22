@@ -1,5 +1,8 @@
 # Reflections
 
+
+GitHub is a hosting site for code. Using GitHub, developers can store, share, and collaborate on different coding projects. You are able to showcase your work using GitHub Pages. GitHub pages allows you to build websites to show off your work to perspective employers and clients, have an online resume, share documents, create blogs, and anything else you can think of for a site. GitHub uses Markdown Syntax. Syntax is just the rules that define the structure of the coding language. Below are a few examples of Markdown Syntax structure.
+
 ### Markdown
 - Markdown is easy to read and write
 - Syntax for markdown compromises of punctuation characters
