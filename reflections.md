@@ -13,3 +13,8 @@
 - using  * * or _ _       
     -  ```* makes italic text * ```
     -  ``` _ makes italic text _ ```
+
+##### **Bold**
+- using ** ** or __ __
+    - ``` ** Makes bold text ** ```
+    - ``` __ Makes bold text __ ```
