@@ -16,9 +16,9 @@ Gits is a DVCS (Distributed Version Control). Before DVCS there was Centralized 
 * Git makes it very hard to lose data.
 
 There are 3 main states of files in Git:
-1. **committed**: the data is stored securely in a local database
-2. **modified**: file is changed but not saved or committed to the database
-3. **staged**: flagged file's changed version to be committed in the next snapshot. 
+1. **Committed**: the data is stored securely in a local database
+2. **Modified**: file is changed but not saved or committed to the database
+3. **Staged**: flagged file's changed version to be committed in the next snapshot. 
 
 **Snapshot** is basically like a picture taken of what your code looks like at that given moment. 
 
@@ -32,9 +32,9 @@ A repository is what is created to track all changes that are made. You are able
 1. Change the directory: ```cd [name of directory]```
 2. Use ```git init``` (this initializes or starts the file/directory.
 3. Begin tracking the repository file and initial commit:  
-4. ```git add *.c```
-  ```git add LICENSE```
-  ```git commit -m "Message goes here"```
+ ```git add *.c```
+ ```git add LICENSE```
+ ```git commit -m "Message goes here"```
  
 
 There are tracked and untracked files. *Tracked* will be modified, unmodified or staged in the most recent snapshot. *Untracked* changes ere not inthe last snapshot or in the staging area. 
