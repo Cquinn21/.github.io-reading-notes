@@ -7,7 +7,7 @@ Gits is a DVCS (Distributed Version Control). Before DVCS there was Centralized 
 * CVCS had a flaw though, sense it was a single point, if it failed no one is able to collaborate on their project and can only access what is on their local disk.
 
 ### DVCS 
-* DVCS allows mulitipl mirrored repositories to be created to prevent any loss.
+* DVCS allows multiple mirrored repositories to be created to prevent any loss.
 * Programmers can work together, but in different ways and at the same time. 
 
 ### Git
