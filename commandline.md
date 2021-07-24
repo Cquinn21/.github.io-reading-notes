@@ -24,8 +24,7 @@ A text editor is software that allows you to write,and manage text that is used 
 * There is a **shell** which tells the terminal how to behave. (bash is the shell) 
 * The first thing you type is the command, then the argument. (must separate by spaces)
 * There are **Absolute and Relative Paths** 
-      1. Absolute Path specifies the location of a file or directory in relation to the root directory. It will always begin with a (\) forward slash.
-            - Ex.: ```ls /home/jj/Documents```
+* Absolute Path specifies the location of a file or directory in relation to the root directory. It will always begin with a (\) forward slash. Example: ```ls /home/jj/Documents```
 
       
 
