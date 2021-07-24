@@ -12,7 +12,7 @@ Gits is a DVCS (Distributed Version Control). Before DVCS there was Centralized 
 
 ### Git
 * Git relies on **local operations**. This allows for faster processing because it's stored on a local disk. Enabling you to also work offline. 
-* You can **track changes**. All changes made to a file or directory that are saveds is tracked by Git. Git will always track if there are any loss or corruption in the file and or directories. 
+* You can **track changes**. All changes made to a file or directory that are saved is tracked by Git. Git will always track if there are any loss or corruption in the file and or directories. 
 * Git makes it very hard to lose data.
 
 There are 3 main states of files in Git:
