@@ -24,7 +24,7 @@ A text editor is software that allows you to write and manage text that is used 
 * There is a **shell** which tells the terminal how to behave. (bash is the shell) 
 * The first thing you type is the command, then the argument. (must separate by spaces)
 * There are **Absolute and Relative Paths** 
-* Absolute Path specifies the location of a file or directory in relation to the root directory. It will always begin with a (\) forward slash. Example: ls /home/jj/Documents
+* Absolute Path specifies the location of a file or directory in relation to the root directory. It will always begin with a ```(\)``` forward slash. Example: ls /home/jj/Documents
 * Relative Path specifies the location of a file or directory in relation to what you currently are in the system. They will **_not_** have a slash at the beginning. Example: ls Documents
 * Has Tab Completion. If you are typing something you can hit the **Tab** key and it will complete the text for you unless there are multiple options. If there are multiple options simply hit **Tab** it will give you your options. 
 * Must be aware of case sensitivity.
