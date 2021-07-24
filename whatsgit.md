@@ -37,9 +37,3 @@ A repository is what is created to track all changes that are made. You are able
  git commit -m "Message goes here"```
  
 
-There are tracked and untracked files. *Tracked* will be modified, unmodified or staged in the most recent snapshot. *Untracked* changes ere not inthe last snapshot or in the staging area. 
-
-### Remote Repositories
-Remote repositories are online allowing for teams to work together on a single project giving them the ability to push and pull data. 
-
-### Git Commands
