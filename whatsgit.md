@@ -35,7 +35,7 @@ A repository is what is created to track all changes that are made. You are able
  ```git add LICENSE```
  ```git commit -m "Message goes here"``` (you will press enter after each command).
  
- * There are tracked and untracked files. *Tracked* will be modified, unmodified or staged in the most recent snapshot. *Untracked* changes ere not inthe last snapshot or in the staging area. 
+ * There are tracked and untracked files. *Tracked* will be modified, unmodified or staged in the most recent snapshot. *Untracked* changes ere not in the last snapshot or in the staging area. 
 
 ### Remote Repositories
 Remote repositories are online allowing for teams to work together on a single project giving them the ability to push and pull data. 
@@ -57,6 +57,6 @@ Remote repositories are online allowing for teams to work together on a single p
 * ```git fetch [remote-name]``` to fetch or pull data you don't have from the remote project. 
 * ```git fetch origin``` to get cloned repositories. *_Note_* Fetch only pulls new data to the local repository. It does not merge or modify with your local work. 
 * ```git push [remote-name] [branch-name]``` pushes changes to the origin repository from your local master branch.
-* ```git remote rename``` renames the remotes shortname. Example: ``` git remote [oldname] [newname]```
+* ```git remote rename``` renames the remotes short name. Example: ``` git remote [oldname] [newname]```
 * ```git remote rm``` removes a remote.
 
