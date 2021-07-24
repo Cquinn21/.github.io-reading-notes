@@ -1,6 +1,6 @@
 # What is Git?
 
-Gits is a DVCS (Distributed Version Control). Before DVCS there was Centralized Version Control or CVCS. But first, what is Version Control? Version Control is a system that records changes to a single or set of files over time so that later you can recall a specific version of that file. 
+Git is a DVCS (Distributed Version Control). Before DVCS there was Centralized Version Control or CVCS. But first, what is Version Control? Version Control is a system that records changes to a single or set of files over time so that later you can recall a specific version of that file. 
 
 ### CVCS
 * CVCS is a single server that stores all changes and file versions that can accessed by different clients streamlining collaboration. 
