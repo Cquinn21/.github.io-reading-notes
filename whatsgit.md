@@ -25,15 +25,16 @@ There are 3 main states of files in Git:
 ### Structure of a Repository
 A repository is what is created to track all changes that are made. You are able to go back and review a timeline of these changes. A repository is structured as follows:
 1. **Working Directory:** Actual files are located here
-2. **Index:* used for staging
+2. **Index:** used for staging
 3. **Head:** directs you to the most recent commit made. 
 
 #### Set up a Repository
 1. Change the directory: ```cd [name of directory]```
 2. Use ```git init``` (this initializes or starts the file/directory.
-3. Begin tracking the repository file and initial commit:  ```git add *.c
-  git add LICENSE
-  git commit -m "Message goes here"```
+3. Begin tracking the repository file and initial commit:  
+4. ```git add *.c```
+  ```git add LICENSE```
+  ```git commit -m "Message goes here"```
  
 
 There are tracked and untracked files. *Tracked* will be modified, unmodified or staged in the most recent snapshot. *Untracked* changes ere not inthe last snapshot or in the staging area. 
