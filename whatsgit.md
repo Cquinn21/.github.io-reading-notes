@@ -33,7 +33,7 @@ A repository is what is created to track all changes that are made. You are able
 2. Use ```git init``` (this initializes or starts the file/directory.
 3. Begin tracking the repository file and initial commit: ```git add *.c``` 
  ```git add LICENSE```
- ```git commit -m "Message goes here"```
+ ```git commit -m "Message goes here"``` (you will press enter after each command).
  
  * There are tracked and untracked files. *Tracked* will be modified, unmodified or staged in the most recent snapshot. *Untracked* changes ere not inthe last snapshot or in the staging area. 
 
@@ -42,5 +42,21 @@ Remote repositories are online allowing for teams to work together on a single p
 
 ### Git Commands
 
- 
+* ```git commit -m "message here"``` saves a project or changes to a project. Creating a snapshot of the file and creates a reference. 
+* ```git commit -a``` saves all files. 
+* ``` git clone [URL]``` creates a copy of a repository. **_Note_** Cloned repositories automatically give the anme origin from the server that you cloned from and "master" on your local branch. 
+* ```git status``` checks file status.
+* ```git add [filename]``` tracks and stage a single file.
+* ```git add *``` tracks and stages all files.
+* ```git push origin master``` pushes from local master branch to remote repository called origin.
+* ``` git stash``` allows you to hide changes you are not ready to commit just yet.
+* ``` git stash apply``` brings back the hidden changes if you are ready to work on them again. 
+* ```git remote``` allows you to view the short names of all specified remote handles.
+* ```git remote -v``` view all URLs that correspond to their short names
+* ```git remote add shortname URL``` creates a git remote repository with a short name. 
+* ```git fetch [remote-name]``` to fetch or pull data you don't have from the remote project. 
+* ```git fetch origin``` to get cloned repositories. *_Note_* Fetch only pulls new data to the local repository. It does not merge or modify with your local work. 
+* ```git push [remote-name] [branch-name]``` pushes changes to the origin repository from your local master branch.
+* ```git remote rename``` renames the remotes shortname. Example: ``` git remote [oldname] [newname]```
+* ```git remote rm``` removes a remote.
 
