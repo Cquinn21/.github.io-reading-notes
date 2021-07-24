@@ -19,3 +19,14 @@ A text editor is software that allows you to write,and manage text that is used 
 ### IDE
 * IDE stands for Integrated Development Environment. IDE's combine different software programs into one single system. IDE allows you to text edit, manage files, it has a compiler, and a debugger. Microsoft Visual Studios is an example of an IDE software. 
  
+### Command Line Interface
+* Command line Interface is a program on computers known as terminal on MacOS and command prompt on Windows. It allows you to created & delete files, run programs, and navigate through folders and files on your system. 
+* There is a **shell** which tells the terminal how to behave. (bash is the shell) 
+* The first thing you type is the command, then the argument. (must separate by spaces)
+* There are **Absolute and Relative Paths** 
+      - Absolute Path specifies the location of a file or directory in relation to the root directory. It will always begin with a (\) forward slash.
+            - Ex.: ```ls /home/jj/Documents```
+
+      
+
+      
