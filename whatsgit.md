@@ -44,7 +44,7 @@ Remote repositories are online allowing for teams to work together on a single p
 
 * ```git commit -m "message here"``` saves a project or changes to a project. Creating a snapshot of the file and creates a reference. 
 * ```git commit -a``` saves all files. 
-* ``` git clone [URL]``` creates a copy of a repository. **_Note_** Cloned repositories automatically give the anme origin from the server that you cloned from and "master" on your local branch. 
+* ``` git clone [URL]``` creates a copy of a repository. **_Note_** Cloned repositories automatically give the name origin from the server that you cloned from and "master" on your local branch. 
 * ```git status``` checks file status.
 * ```git add [filename]``` tracks and stage a single file.
 * ```git add *``` tracks and stages all files.
