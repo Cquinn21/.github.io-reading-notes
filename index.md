@@ -9,7 +9,7 @@ Hi! My name is Christina. I have always had a fascination with technology. I was
 # Table of Contents: 
 
 1. [Growth](https://cquinn21.github.io/.github.io-reading-notes/growth)
-2. [Markdown](https://cquinn21.github.io/.github.io-reading-notes/reflections)
+2. [Markdown](https://cquinn21.github.io/.github.io-reading-notes/markdown)
 3. [Git](https://cquinn21.github.io/.github.io-reading-notes/whatsgit)
 4. [Terminal](https://cquinn21.github.io/.github.io-reading-notes/commandline)
 
