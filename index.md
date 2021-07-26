@@ -6,7 +6,7 @@
 
 Hi! My name is Christina. I have always had a fascination with technology. I was always taking things apart and putting it back to gether to my fathers frustration.  VCR's, game systems, you name it I was taking it apart. I later got into repairing and building computers along with repairing smart devices and game systems. I decided I wanted to see the other side. The world of code. I am so excited to be on this journey of endless growth and learning. Coding is a real challenge that allows me to put my problem solving skills to the test! Currently I am a stay at home mom. I have 3 kids, 20, 17 and 14, 5 dogs and a ferret. I love to watch anime, and historical documentaries, read mangas and crime, mistery, and fantasy novels. 
 
-![Coding](coding.afphoto) 
+![Coding](sai-kiran-anagani-5Ntkpxqt54Y-unsplash.jpg) 
 
 # Table of Contents: 
 
