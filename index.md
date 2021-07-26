@@ -2,7 +2,7 @@
 
 ## Welcome to my page!
 
-![Coding](https://user-images.githubusercontent.com/87684144/127067467-9b231038-df6b-460f-8e10-16824ccaa365.jpg)
+![image](https://user-images.githubusercontent.com/87684144/127067652-9f958c78-973e-4dd9-bf1d-97ecba1a530e.png)
 
 ### About Me
 
