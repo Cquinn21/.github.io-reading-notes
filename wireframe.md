@@ -1,6 +1,6 @@
 # Wireframing
 
-## WHat is Wireframing?
+## What is Wireframing?
 
 * Wireframing allows a designer to define and plan the heirarchy of information for their website, app, or product. A good example would be when you are writing a paper for school. You would gather information through research and then create an outline on how you wanted to lay that information out.
 
