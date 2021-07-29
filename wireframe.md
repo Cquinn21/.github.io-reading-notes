@@ -2,7 +2,7 @@
 
 ## What is Wireframing?
 
-* Wireframing allows a designer to define and plan the heirarchy of information for their website, app, or product. A good example would be when you are writing a paper for school. You would gather information through research and then create an outline on how you wanted to lay that information out.
+* Wireframing allows a designer to define and plan the hierarchy of information for their website, app, or product. A good example would be when you are writing a paper for school. You would gather information through research and then create an outline on how you wanted to lay that information out.
 
 * Done in black and white, allows you to see how a user interacts with a site without all the graphics and color. The user should easily be able to navigate the site without all the fluff.
 
@@ -22,6 +22,6 @@
 
 6. **Prototypes:** Once you have your user feedback, you begin on the realistic wireframing. This is what the site will actually look like.
 
-The key to a good wireframe is clarity,confidence and simplicity.
+The key to a good wireframe is clarity, confidence and simplicity.
 
 [Home](https://cquinn21.github.io/.github.io-reading-notes/index)
