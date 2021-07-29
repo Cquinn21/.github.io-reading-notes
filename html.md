@@ -1,14 +1,14 @@
 # HTML
 
-- HTML stands for **H**yper**T**ext **M**arkup **L**anguage. This is the code that is used to structure a web page and the content of thepage. It consists of **elements** that you uses to wrap or enclose content to make it appear a certain way.
+- HTML stands for **H**yper**T**ext **M**arkup **L**anguage. This is the code that is used to structure a web page and the content of the page. It consists of **elements** that you uses to wrap or enclose content to make it appear a certain way.
 
-- An **element** defines the HTML document. A typical element includes: opening tage, closing tage, attributes, and enclosed text.
+- An **element** defines the HTML document. A typical element includes: opening tag, closing tag, attributes, and enclosed text.
 
 - *Example:* ```<p> my dog has a very loud bark </p>``` Read in order from left to right, the code is as follows:
 
     1. **Opening Tag:** ```<p>``` name of the element with opening and closing angle brackets ```(<>)```
 
-    2. **Closing Tag:** ```<\p>``` same as the opening tagbut also has a forward slash ```(\)``` before the element name.
+    2. **Closing Tag:** ```<\p>``` same as the opening tag, but also has a forward slash ```(\)``` before the element name.
 
     3. **The Content:** the elements content, which depends on the element, in this case ```<p><\p>``` for paragraph, so it would include text.
 
@@ -33,7 +33,7 @@
 
   - ```<!DocType html>``` ensures the document behaves correctly.
 
-  - ```<html><\html>``` Known as the root element. Wraps allthe content for the entire page.
+  - ```<html><\html>``` Known as the root element. Wraps all the content for the entire page.
 
   - ```<head> <\head>``` The container for all things you don't want the viewers to see such as keywords, css, and character sets among other things. 
 
@@ -57,7 +57,7 @@
 
 - Can write an HTML line of code to look like an h1 header but it holds no semantic value. Instead, let html do what it does best and use CSS for what it does best and that is styling.
 
-- When determinging the markup to use, you should ask yourself questions such as "What data will best describe the data that will be populated?" and build on that questioning to determine the best elements to use.
+- When determining the markup to use, you should ask yourself questions such as "What data will best describe the data that will be populated?" and build on that questioning to determine the best elements to use.
 
 - Semantic naming mirrors element naming.
 
