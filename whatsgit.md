@@ -60,4 +60,4 @@ Remote repositories are online allowing for teams to work together on a single p
 * ```git remote rename``` renames the remotes short name. Example: ``` git remote [oldname] [newname]```
 * ```git remote rm``` removes a remote.
 
-Home](https://cquinn21.github.io/.github.io-reading-notes/index)
+[Home](https://cquinn21.github.io/.github.io-reading-notes/index)

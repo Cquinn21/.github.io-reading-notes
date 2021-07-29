@@ -24,4 +24,4 @@
 
 The key to a good wireframe is clarity,confidence and simplicity.
 
-Home](https://cquinn21.github.io/.github.io-reading-notes/index)
+[Home](https://cquinn21.github.io/.github.io-reading-notes/index)

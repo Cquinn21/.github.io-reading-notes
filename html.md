@@ -89,4 +89,4 @@
 
 - ```<figure>``` self contained content using ```<figcaption>``` element.
 
-Home](https://cquinn21.github.io/.github.io-reading-notes/index)
+[Home](https://cquinn21.github.io/.github.io-reading-notes/index)
