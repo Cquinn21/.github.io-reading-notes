@@ -88,3 +88,5 @@
 - ```<summary>``` specifies summary, caption or legend for the ```<details>``` disclosure box.
 
 - ```<figure>``` self contained content using ```<figcaption>``` element.
+
+Home](https://cquinn21.github.io/.github.io-reading-notes/index)
