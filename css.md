@@ -2,7 +2,7 @@
 
 - CSS stands for **C**ascading **S**tyle **S**heet.
 
-- Contols what HTML looks like, how it is styled, laid out, can change color of text, etc...
+- Controls what HTML looks like, how it is styled, laid out, can change color of text, etc...
 
 - CSS is a rule based language where you define rules to be applied to certain elements on the webpage.
 
@@ -12,7 +12,7 @@
 
 - Checking implementations status sense some features may or may or may not work.
 
-- To check browser support status check the mdn property page in the section "Browser Compatibility". This will check if the property can be used onyour site. An example of the chart can be found [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS#browser_compatibility).
+- To check browser support status check the mdn property page in the section "Browser Compatibility". This will check if the property can be used on your site. An example of the chart can be found [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS#browser_compatibility).
 
 ## How to add CSS
 
