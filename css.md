@@ -60,7 +60,7 @@ Which style is used if there is more than one style for an HTML element?
 
 ### Syntax
 
-- color: *color*|*initial*|*inherit*
+- ```color: color|initial|inherit```
 
   - **Color:** the color of the text
 
