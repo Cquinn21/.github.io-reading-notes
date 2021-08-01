@@ -17,3 +17,5 @@ Hi! My name is Christina. I have always had a fascination with technology. I was
 5. [Wireframing](https://cquinn21.github.io/.github.io-reading-notes/wireframe)
 6. [HTML](https://cquinn21.github.io/.github.io-reading-notes/html)
 7. [CSS](https://cquinn21.github.io/.github.io-reading-notes/css)
+8. [JavaScript](https://cquinn21.github.io/.github.io-reading-notes/javascript)
+
