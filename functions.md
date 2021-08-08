@@ -8,20 +8,19 @@
 
 ## Defining Functions
 
-**Function Definition** consists of the *function* keyword followed by:
+* **Function Definition** consists of the *function* keyword followed by:
 
-    - The name of the function
+  * The name of the function
 
-    - a list of the parameters to the function enclosed in parentheses and separated by commas.
+  * a list of the parameters to the function enclosed in parentheses and separated by commas.
 
-    - The JavaScript statements that define the function enclosed in the curly bracket ```{}```.
+  * The JavaScript statements that define the function enclosed in the curly bracket ```{}```.
 
-    **_Example:_** Defines a simple function ```square```:
-    ```function square(number){
+  * **_Example:_** Defines a simple function ```square```: ```function square(number){
         return number * number;
     }```
 
-    - Functions ```square``` takes the parameter *number* and has one statement that says to return the parameter of the function ```(number)``` multiplied by itself.
+  * Functions ```square``` takes the parameter *number* and has one statement that says to return the parameter of the function ```(number)``` multiplied by itself.
 
 * Parameters are passed to function by **value**, value is passed to function.
 
