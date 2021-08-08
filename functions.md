@@ -34,9 +34,9 @@
 
 * **Calling** a function performs the specified actions with the indicated parameters you would call the function ```square``` as follows: ```square(5);```
 
-* Functions must be in a scope when they are called, but function declarationcan be below the call in code. Example: ```console.log(square(5));```
+* Functions must be in a scope when they are called, but function declaration can be below the call in code. Example: ```console.log(square(5));```
 ```function square(n){return n * n}```
-*_Note_* only works using following syntax: ```function funcName(){}```
+*Note* only works using following syntax: ```function funcName(){}```
 
 Functions can be called 3 ways:
 
@@ -111,7 +111,7 @@ For a list of predefined functions, checkout [MDN](https://developer.mozilla.org
 
 ## Operators
 
-* Operators are used to perfomr mathematical and logical computations.
+* Operators are used to perform mathematical and logical computations.
 
 * Capable of manipulating certain values and operands.
 
