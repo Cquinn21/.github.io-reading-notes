@@ -18,4 +18,5 @@ Hi! My name is Christina. I have always had a fascination with technology. I was
 6. [HTML](https://cquinn21.github.io/.github.io-reading-notes/html)
 7. [CSS](https://cquinn21.github.io/.github.io-reading-notes/css)
 8. [JavaScript](https://cquinn21.github.io/.github.io-reading-notes/javascript)
+9. [Functions]](https://cquinn21.github.io/.github.io-reading-notes/functions)
 
