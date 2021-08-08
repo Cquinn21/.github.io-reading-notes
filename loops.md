@@ -76,9 +76,9 @@
 
 * Bitwise OR assignment
 
-  * Shorthand: x |= y
+  * Shorthand: ```x |= y```
   
-  * Meaning: x = x | y
+  * Meaning: ```x = x | y```
 
 * Logical AND assignment
 
@@ -88,9 +88,9 @@
 
 * Logical OR assignment
 
-  * Shorthand: x ||= y
+  * Shorthand: ```x ||= y```
   
-  * Meaning: x || (x = y)
+  * Meaning: ```x || (x = y)```
 
 * Logical nullish assignment
 
