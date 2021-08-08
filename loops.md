@@ -171,4 +171,6 @@ For more on Operaters, check out the article on [MDN](https://developer.mozilla.
 * ```for...of``` statement: repeats over iterable objects including ```array```, ```map```, ```set```, ```arguments```, objects etc...
   * Syntax: ```for (variable of object)  statement```
 
+For more information, Check out Loops and Iterations on [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+
 [Home](https://cquinn21.github.io/.github.io-reading-notes/index)
