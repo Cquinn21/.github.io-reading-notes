@@ -116,3 +116,5 @@ For a list of predefined functions, checkout [MDN](https://developer.mozilla.org
 * Capable of manipulating certain values and operands.
 
 * For a list of different types of operators, go to [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) or [W3Schools](https://www.w3schools.com/js/js_operators.asp).
+
+[Home](https://cquinn21.github.io/.github.io-reading-notes/)
